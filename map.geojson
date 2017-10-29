@@ -1,0 +1,20 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.0931381,
+                    44.0548653
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "restaurant",
+                "Place": "Morning Glory Café",
+                "Website": "https://morninggloryeugene.squarespace.com"
+            }
+        }
+        }
