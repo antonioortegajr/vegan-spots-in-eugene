@@ -96,6 +96,54 @@
                 "Place": "Pizza Research Institute",
                 "Website": "http://www.pripizza.com/"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.092875,
+                    44.0497998
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "restaurant",
+                "Place": "Sizzle Pie",
+                "Website": "https://www.sizzlepie.com/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.0949709,
+                    44.0497188
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "restaurant",
+                "Place": "Wayward Lamb",
+                "Website": "http://www.thewaywardlamb.com/menu/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.093003,
+                    44.049812
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "restaurant",
+                "Place": "B Heavenly",
+                "Website": "http://b-heavenly-site.webflow.io/menu"
+            }
         }
         ]
         }
