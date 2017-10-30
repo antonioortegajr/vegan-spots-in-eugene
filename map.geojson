@@ -16,6 +16,38 @@
                 "Place": "Morning Glory Café",
                 "Website": "https://morninggloryeugene.squarespace.com"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.0815478,
+                    44.032991
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "restaurant",
+                "Place": "Sundial Cafe",
+                "Website": "https://www.sundialcafeeugene.com/menus/breakfast-and-brunch/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.1122971,
+                    44.0517935
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "restaurant",
+                "Place": "Cornbread Cafe",
+                "Website": "http://www.cornbreadcafe.com/"
+            }
         }
         ]
         }

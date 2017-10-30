@@ -1,4 +1,4 @@
-# vegan-spots-in-eugene-
+# vegan-spots-in-eugene
 Places in Eugene for vegan food
 
 ## About
