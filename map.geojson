@@ -48,6 +48,22 @@
                 "Place": "Cornbread Cafe",
                 "Website": "http://www.cornbreadcafe.com/"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.0959975,
+                    44.0507481
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "restaurant",
+                "Place": "Lotus Garden",
+                "Website": "http://www.lotusgardenveg.com/"
+            }
         }
         ]
         }
