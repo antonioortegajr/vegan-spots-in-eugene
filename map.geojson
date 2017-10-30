@@ -64,6 +64,22 @@
                 "Place": "Lotus Garden",
                 "Website": "http://www.lotusgardenveg.com/"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.0946786,
+                    44.0467599
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "restaurant",
+                "Place": "Viva! Vegetarian Grill",
+                "Website": "http://www.vivavegetarian.com/"
+            }
         }
         ]
         }
