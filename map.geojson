@@ -80,6 +80,22 @@
                 "Place": "Viva! Vegetarian Grill",
                 "Website": "http://www.vivavegetarian.com/"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.1118889,
+                    44.0562356
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "restaurant",
+                "Place": "Pizza Research Institute",
+                "Website": "http://www.pripizza.com/"
+            }
         }
         ]
         }
