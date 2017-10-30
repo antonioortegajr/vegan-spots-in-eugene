@@ -1,5 +1,7 @@
 # vegan-spots-in-eugene
-Places in Eugene for vegan food
+Places in Eugene for vegan food.
+
+See [map here](/map.geojson)
 
 ## About
 This map is in [Geo Json](http://geojson.org/)
